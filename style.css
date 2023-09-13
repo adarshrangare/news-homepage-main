@@ -248,7 +248,7 @@ nav ul a:hover{
       background-color: lightblue;
     }
     .container{
-        max-width: 500px;
+        max-width: 600px;
     }
     .main-container{
         grid-template-columns: 1fr;
